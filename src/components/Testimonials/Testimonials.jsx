@@ -10,6 +10,8 @@ import "./Testimonials.css";
 const testimonials = [
   {
     rating: 5,
+        number: 4.8,
+
     text:
       "From the moment I walked in, everyone made me feel completely at ease. Everything was explained clearly and I never felt rushed.",
     name: "Sarah M.",
@@ -18,6 +20,7 @@ const testimonials = [
   },
   {
     rating: 5,
+    number: 4.1,
     text:
       "The team is incredibly professional but also genuinely warm. I finally feel confident about my dental treatment.",
     name: "James R.",
@@ -26,6 +29,7 @@ const testimonials = [
   },
   {
     rating: 5,
+    number: 4.5,
     text:
       "I was nervous about my treatment, but the whole experience was so comfortable. The team listened to every concern I had.",
     name: "Emma W.",
@@ -106,6 +110,8 @@ const Testimonials = () => {
               }`}
               key={testimonial.name}
             >
+           
+
 
               {/* Quote */}
 
@@ -125,7 +131,12 @@ const Testimonials = () => {
                       size={12}
                       fill="currentColor"
                     />
+                    
                   ))}
+
+                       <strong style={{color:""}}>
+    { testimonial.number}
+  </strong>
 
                 </div>
 

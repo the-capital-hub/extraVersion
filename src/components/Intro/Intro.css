@@ -5,7 +5,7 @@
 .intro-section {
   position: relative;
 
-  padding: 145px 0 0;
+  padding: 35px 0 0;
 
   overflow: hidden;
 
@@ -681,7 +681,7 @@
 @media (max-width: 800px) {
 
   .intro-section {
-    padding-top: 90px;
+    padding-top: 30px;
   }
 
 

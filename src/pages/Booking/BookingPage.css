@@ -26,7 +26,7 @@
 ================================================== */
 
 .booking-hero {
-  padding: 150px 0 105px;
+  padding: 30px 0 25px;
 
   background:
     radial-gradient(
@@ -46,7 +46,7 @@
 
   color: #2438e8;
 
-  font-size: 9px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -127,7 +127,7 @@
 
   color: #2438e8;
 
-  font-size: 8px;
+  font-size: 11px;
 
   font-weight: 800;
 }
@@ -138,7 +138,7 @@
 ================================================== */
 
 .booking-section {
-  padding: 110px 0 125px;
+  padding: 30px 0 25px;
 }
 
 .booking-layout {
@@ -179,7 +179,7 @@
 .booking-sidebar-top > span {
   color: #2438e8;
 
-  font-size: 7px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -203,7 +203,7 @@
 .booking-step small {
   color: #9da2ad;
 
-  font-size: 8px;
+  font-size: 11px;
 }
 
 .booking-sidebar h2 {
@@ -239,7 +239,7 @@
 
   color: #7b8290;
 
-  font-size: 10px;
+  font-size: 12px;
 
   line-height: 1.85;
 }
@@ -290,7 +290,7 @@
 .booking-benefits span {
   color: #555d6d;
 
-  font-size: 8px;
+  font-size: 12px;
 
   font-weight: 700;
 }
@@ -349,7 +349,7 @@
 .booking-field-heading > div > span {
   color: #2438e8;
 
-  font-size: 8px;
+  font-size: 12px;
 
   font-weight: 800;
 }
@@ -369,7 +369,7 @@
 .booking-field-heading small {
   color: #9da3af;
 
-  font-size: 6px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -411,7 +411,7 @@
 
   font-family: inherit;
 
-  font-size: 8px;
+  font-size: 11px;
 
   font-weight: 700;
 
@@ -453,7 +453,7 @@
 
   height: 52px;
 
-  padding: 0 45px 0 15px;
+  padding: 0 25px 0 15px;
 
   appearance: none;
 
@@ -469,7 +469,7 @@
 
   font-family: inherit;
 
-  font-size: 9px;
+  font-size: 12px;
 
   cursor: pointer;
 }
@@ -527,7 +527,7 @@
 .booking-date span {
   color: #9da3ad;
 
-  font-size: 6px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -545,7 +545,7 @@
 .booking-date small {
   color: #9da3ad;
 
-  font-size: 6px;
+  font-size: 11px;
 
   font-weight: 800;
 }
@@ -593,7 +593,7 @@
 
   font-family: inherit;
 
-  font-size: 8px;
+  font-size: 11px;
 
   font-weight: 700;
 
@@ -643,7 +643,7 @@
 .booking-message > span {
   color: #697080;
 
-  font-size: 6px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -666,7 +666,7 @@
 
   font-family: inherit;
 
-  font-size: 9px;
+  font-size: 12px;
 
   transition:
     border-color .25s ease,
@@ -737,7 +737,7 @@
 
   color: #2438e8;
 
-  font-size: 7px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -766,7 +766,7 @@
 .booking-summary-content small {
   color: #9da3ad;
 
-  font-size: 6px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -776,7 +776,7 @@
 .booking-summary-content strong {
   color: #111936;
 
-  font-size: 9px;
+  font-size: 12px;
 
   line-height: 1.5;
 }
@@ -807,7 +807,7 @@
 
   color: #858b97;
 
-  font-size: 7px;
+  font-size: 11px;
 
   line-height: 1.7;
 }
@@ -834,7 +834,7 @@
 
   font-family: inherit;
 
-  font-size: 8px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -902,7 +902,7 @@
   color:
     rgba(255,255,255,.52);
 
-  font-size: 7px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -934,7 +934,7 @@
   color:
     rgba(255,255,255,.55);
 
-  font-size: 9px;
+  font-size: 12px;
 
   line-height: 1.7;
 }
@@ -957,7 +957,7 @@
 
   color: #111936;
 
-  font-size: 9px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -1049,7 +1049,7 @@
 
   color: #2438e8;
 
-  font-size: 7px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -1086,7 +1086,7 @@
 
   color: #7b8290;
 
-  font-size: 10px;
+  font-size: 12px;
 
   line-height: 1.8;
 }
@@ -1112,7 +1112,7 @@
 
   color: #111936;
 
-  font-size: 8px;
+  font-size: 11px;
 
   font-weight: 800;
 }
@@ -1142,7 +1142,7 @@
 
   font-family: inherit;
 
-  font-size: 8px;
+  font-size: 12px;
 
   font-weight: 800;
 

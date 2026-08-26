@@ -15,12 +15,14 @@ import BookingPage from "./pages/Booking/BookingPage";
 import VoicePage from "./pages/Voice/VoicePage";
 
 import "./App.css";
+import ScrollToTop from "./components/ScrollToTop/ScrollToTop";
 
 function App() {
   return (
     <BrowserRouter>
 
       <Navbar />
+      <ScrollToTop />
 
       <Routes>
 

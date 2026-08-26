@@ -9,6 +9,7 @@ import {
 } from "lucide-react";
 
 import "./Hero.css";
+import { Link } from "react-router-dom";
 
 const Hero = () => {
   return (
@@ -55,31 +56,31 @@ const Hero = () => {
 
           <div className="hero-actions">
 
-            <a
-              href="#booking"
-              className="hero-primary-button"
-            >
-              <span>Book an Appointment</span>
+            <Link
+  to="/booking"
+  className="hero-primary-button"
+>
+  <span>Book an Appointment</span>
 
-              <span className="hero-button-arrow">
-                <ArrowUpRight size={18} />
-              </span>
-            </a>
+  <span className="hero-button-arrow">
+    <ArrowUpRight size={18} />
+  </span>
+</Link>
 
 
-            <a
-              href="#ivy"
-              className="hero-secondary-button"
-            >
-              <span className="hero-play">
-                <Play
-                  size={13}
-                  fill="currentColor"
-                />
-              </span>
+            <Link
+  to="/ivy"
+  className="hero-secondary-button"
+>
+  <span className="hero-play">
+    <Play
+      size={13}
+      fill="currentColor"
+    />
+  </span>
 
-              Talk to Ivy
-            </a>
+  Talk to Ivy
+</Link>
 
           </div>
 

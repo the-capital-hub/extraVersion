@@ -5,7 +5,7 @@
 .why-section {
   position: relative;
 
-  padding: 150px 0;
+  padding: 30px 0;
 
   overflow: hidden;
 
@@ -534,7 +534,7 @@
 @media (max-width: 750px) {
 
   .why-section {
-    padding: 95px 0;
+    padding: 35px 0;
   }
 
 
@@ -606,7 +606,7 @@
 
     align-items: flex-start;
 
-    margin-top: 50px;
+    margin-top: 30px;
 
     padding: 25px;
   }

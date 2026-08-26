@@ -5,8 +5,15 @@ import {
   Phone,
   Sparkles,
 } from "lucide-react";
+import {
+  FaInstagram,
+  FaFacebookF,
+  FaLinkedinIn,
+} from "react-icons/fa";
+
 
 import "./Footer.css";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -44,28 +51,26 @@ const Footer = () => {
 
           <div className="footer-cta-actions">
 
-            <a
-              href="#booking"
-              className="footer-book-button"
-            >
-              <span>
-                Book an Appointment
-              </span>
+                 <Link
+  to="/booking"
+  className="hero-primary-button"
+>
+  <span>Book an Appointment</span>
 
-              <span>
-                <ArrowUpRight size={18} />
-              </span>
-            </a>
+  <span className="hero-button-arrow">
+    <ArrowUpRight size={18} />
+  </span>
+</Link>
 
 
-            <a
-              href="#ivy"
-              className="footer-ivy-button"
-            >
-              <Sparkles size={15} />
+            <Link
+  to="/ivy"
+  className="footer-ivy-button"
+>
+  <Sparkles size={15} />
 
-              Talk to Ivy
-            </a>
+  Talk to Ivy
+</Link>
 
           </div>
 
@@ -112,11 +117,36 @@ const Footer = () => {
               puts you first.
             </p>
 
+<div className="footer-socials">
 
-            <div className="footer-socials">
+  <a
+    href="#"
+    aria-label="Instagram"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <FaInstagram />
+  </a>
 
+  <a
+    href="#"
+    aria-label="Facebook"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <FaFacebookF />
+  </a>
 
-            </div>
+  <a
+    href="#"
+    aria-label="LinkedIn"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <FaLinkedinIn />
+  </a>
+
+</div>
 
           </div>
 

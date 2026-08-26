@@ -19,7 +19,7 @@
 ================================================== */
 
 .doctors-hero {
-  padding: 150px 0 115px;
+  padding: 30px 0 25px;
 
   background:
     radial-gradient(
@@ -37,7 +37,7 @@
 
   color: #2438e8;
 
-  font-size: 9px;
+  font-size: 12px;
   font-weight: 800;
   letter-spacing: 0.16em;
 }
@@ -136,7 +136,7 @@
 
   color: #ffffff;
 
-  font-size: 9px;
+  font-size: 12px;
   font-weight: 800;
 
   transition:
@@ -216,7 +216,7 @@
 .doctors-intro-stat span {
   color: #9ba1ae;
 
-  font-size: 6px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -228,7 +228,7 @@
 .doctors-intro-copy > span {
   color: #2438e8;
 
-  font-size: 7px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -242,7 +242,7 @@
 
   color: #777e8f;
 
-  font-size: 10px;
+  font-size: 12px;
 
   line-height: 1.8;
 }
@@ -263,7 +263,7 @@
 .doctors-intro-badge span {
   color: #111936;
 
-  font-size: 8px;
+  font-size: 12px;
 
   font-weight: 800;
 
@@ -276,7 +276,7 @@
 ================================================== */
 
 .doctors-list {
-  padding: 125px 0;
+  padding: 25px 0;
 
   background: #ffffff;
 }
@@ -412,7 +412,7 @@
 
   color: #111936;
 
-  font-size: 7px;
+  font-size: 11px;
 
   font-weight: 800;
 }
@@ -429,7 +429,7 @@
 .doctor-profile-role {
   color: #2438e8;
 
-  font-size: 7px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -466,7 +466,7 @@
 
   color: #6d7483;
 
-  font-size: 8px;
+  font-size: 12px;
 
   font-weight: 700;
 }
@@ -480,7 +480,7 @@
 
   color: #7b8291;
 
-  font-size: 9px;
+  font-size: 12px;
 
   line-height: 1.75;
 }
@@ -500,7 +500,7 @@
 
   color: #6d7483;
 
-  font-size: 8px;
+  font-size: 12px;
 
   font-weight: 700;
 }
@@ -525,7 +525,7 @@
 
   color: #2438e8;
 
-  font-size: 8px;
+  font-size: 12px;
 
   font-weight: 800;
 
@@ -543,7 +543,7 @@
 ================================================== */
 
 .doctors-philosophy {
-  padding: 125px 0;
+  padding: 25px 0;
 
   background: #111936;
 }
@@ -594,7 +594,7 @@
   color:
     rgba(255, 255, 255, 0.54);
 
-  font-size: 10px;
+  font-size: 12px;
 
   line-height: 1.85;
 }
@@ -659,14 +659,14 @@
   color:
     rgba(255, 255, 255, 0.86);
 
-  font-size: 9px;
+  font-size: 12px;
 }
 
 .doctors-values small {
   color:
     rgba(255, 255, 255, 0.40);
 
-  font-size: 7px;
+  font-size: 11px;
 
   line-height: 1.6;
 }
@@ -677,7 +677,7 @@
 ================================================== */
 
 .doctors-cta {
-  padding: 78px 0;
+  padding: 28px 0;
 
   background: #2438e8;
 }
@@ -696,7 +696,7 @@
   color:
     rgba(255, 255, 255, 0.52);
 
-  font-size: 7px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -747,7 +747,7 @@
 
   color: #111936;
 
-  font-size: 9px;
+  font-size: 12px;
 
   font-weight: 800;
 
@@ -832,7 +832,7 @@
   }
 
   .doctors-hero {
-    padding: 110px 0 80px;
+    padding: 30px 0 20px;
   }
 
   .doctors-hero-grid {
@@ -858,7 +858,7 @@
   }
 
   .doctors-list {
-    padding: 90px 0;
+    padding: 30px 0;
   }
 
   .doctors-grid {
@@ -870,11 +870,11 @@
   }
 
   .doctors-philosophy {
-    padding: 90px 0;
+    padding: 30px 0;
   }
 
   .doctors-cta {
-    padding: 65px 0;
+    padding: 25px 0;
   }
 
   .doctors-cta-inner {

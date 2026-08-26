@@ -23,7 +23,7 @@
 ================================================== */
 
 .experience-hero {
-  padding: 150px 0 115px;
+  padding: 30px 0 25px;
 
   background:
     radial-gradient(
@@ -43,7 +43,7 @@
 
   color: #2438e8;
 
-  font-size: 9px;
+  font-size: 12px;
 
   font-weight: 800;
 
@@ -153,7 +153,7 @@
 
   color: #ffffff;
 
-  font-size: 9px;
+  font-size: 12px;
 
   font-weight: 800;
 
@@ -194,7 +194,7 @@
 ================================================== */
 
 .experience-profiles {
-  padding: 125px 0;
+  padding: 30px 0;
 }
 
 .experience-section-heading {
@@ -238,7 +238,7 @@
 
   color: #7a8190;
 
-  font-size: 10px;
+  font-size: 12px;
 
   line-height: 1.8;
 }
@@ -300,7 +300,7 @@
 .experience-profile-number {
   color: #a2a7b3;
 
-  font-size: 8px;
+  font-size: 12px;
 
   font-weight: 800;
 }
@@ -361,7 +361,7 @@
 
   color: #7b8291;
 
-  font-size: 9px;
+  font-size: 12px;
 
   line-height: 1.8;
 }
@@ -382,7 +382,7 @@
 ================================================== */
 
 .experience-journey {
-  padding: 125px 0;
+  padding: 30px 0;
 
   background: #111936;
 }
@@ -435,7 +435,7 @@
   color:
     rgba(255, 255, 255, 0.48);
 
-  font-size: 10px;
+  font-size: 12px;
 
   line-height: 1.8;
 }
@@ -479,7 +479,7 @@
 .experience-journey-number {
   color: #aeb8ff;
 
-  font-size: 8px;
+  font-size: 12px;
 
   font-weight: 800;
 }
@@ -505,7 +505,7 @@
   color:
     rgba(255,255,255,0.43);
 
-  font-size: 8px;
+  font-size: 12px;
 
   line-height: 1.7;
 }
@@ -535,7 +535,7 @@
 ================================================== */
 
 .experience-expect {
-  padding: 125px 0;
+  padding: 25px 0;
 
   background: #ffffff;
 }
@@ -628,7 +628,7 @@
 .experience-expect-item h3 {
   color: #111936;
 
-  font-size: 10px;
+  font-size: 12px;
 
   font-weight: 800;
 }
@@ -640,7 +640,7 @@
 
   color: #7b8290;
 
-  font-size: 8px;
+  font-size: 12px;
 
   line-height: 1.7;
 }
@@ -651,7 +651,7 @@
 ================================================== */
 
 .experience-cta {
-  padding: 78px 0;
+  padding: 28px 0;
 
   background: #2438e8;
 }
@@ -670,7 +670,7 @@
   color:
     rgba(255,255,255,0.52);
 
-  font-size: 7px;
+  font-size: 12px;
 
   font-weight: 800;
 
@@ -724,7 +724,7 @@
 
   color: #111936;
 
-  font-size: 9px;
+  font-size: 12px;
 
   font-weight: 800;
 
@@ -806,7 +806,7 @@
   }
 
   .experience-hero {
-    padding: 110px 0 80px;
+    padding: 30px 0 30px;
   }
 
   .experience-hero-grid {
@@ -818,7 +818,7 @@
   }
 
   .experience-profiles {
-    padding: 90px 0;
+    padding: 30px 0;
   }
 
   .experience-profile-grid {
@@ -830,15 +830,15 @@
   }
 
   .experience-journey {
-    padding: 90px 0;
+    padding: 30px 0;
   }
 
   .experience-expect {
-    padding: 90px 0;
+    padding: 30px 0;
   }
 
   .experience-cta {
-    padding: 65px 0;
+    padding: 25px 0;
   }
 
   .experience-cta-inner {

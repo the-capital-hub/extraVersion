@@ -21,7 +21,7 @@
 .contact-hero {
   position: relative;
 
-  padding: 150px 0 0;
+  padding: 30px 0 0;
 
   background:
     radial-gradient(
@@ -39,7 +39,7 @@
 
   color: #2438e8;
 
-  font-size: 9px;
+  font-size: 11px;
   font-weight: 800;
 
   letter-spacing: 0.16em;
@@ -65,7 +65,7 @@
 
   margin-top: 35px;
 
-  padding-bottom: 95px;
+  padding-bottom: 25px;
 }
 
 .contact-hero h1 {
@@ -143,7 +143,7 @@
 
   color: #ffffff;
 
-  font-size: 9px;
+  font-size: 12px;
 
   font-weight: 800;
 
@@ -197,7 +197,7 @@
 
   color: #111936;
 
-  font-size: 9px;
+  font-size: 12px;
 
   font-weight: 800;
 }
@@ -243,7 +243,7 @@
 .contact-hero-bottom span {
   color: #8d93a0;
 
-  font-size: 6px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -264,7 +264,7 @@
 ================================================== */
 
 .contact-details {
-  padding: 125px 0;
+  padding: 25px 0;
 }
 
 .contact-details-heading {
@@ -368,7 +368,7 @@
 .contact-card-top > span {
   color: #a1a6b2;
 
-  font-size: 7px;
+  font-size: 11px;
 
   font-weight: 800;
 }
@@ -380,7 +380,7 @@
 .contact-card-content small {
   color: #2438e8;
 
-  font-size: 7px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -411,7 +411,7 @@
 
   color: #7b8291;
 
-  font-size: 9px;
+  font-size: 12px;
 
   line-height: 1.8;
 }
@@ -427,7 +427,7 @@
 
   color: #2438e8;
 
-  font-size: 8px;
+  font-size: 11px;
 
   font-weight: 800;
 }
@@ -439,7 +439,7 @@
 }
 
 .contact-email-link {
-  font-size: 10px !important;
+  font-size: 12px !important;
 }
 
 
@@ -448,7 +448,7 @@
 ================================================== */
 
 .contact-hours-section {
-  padding: 125px 0;
+  padding: 25px 0;
 
   background: #111936;
 }
@@ -507,7 +507,7 @@
   color:
     rgba(255,255,255,.48);
 
-  font-size: 10px;
+  font-size: 12px;
 
   line-height: 1.85;
 }
@@ -532,7 +532,7 @@
 
   color: #111936;
 
-  font-size: 9px;
+  font-size: 12px;
 
   font-weight: 800;
 }
@@ -604,7 +604,7 @@
 .contact-hours-title span {
   color: #aeb8ff;
 
-  font-size: 7px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -633,13 +633,13 @@
   color:
     rgba(255,255,255,.55);
 
-  font-size: 9px;
+  font-size: 12px;
 }
 
 .contact-hour strong {
   color: #ffffff;
 
-  font-size: 9px;
+  font-size: 12px;
 }
 
 .contact-hour-closed strong {
@@ -652,7 +652,7 @@
 ================================================== */
 
 .contact-message-section {
-  padding: 125px 0;
+  padding: 25px 0;
 }
 
 .contact-message-heading {
@@ -700,7 +700,7 @@
 
   color: #7a8190;
 
-  font-size: 10px;
+  font-size: 12px;
 
   line-height: 1.8;
 }
@@ -711,7 +711,7 @@
 ================================================== */
 
 .contact-form {
-  padding: 40px;
+  padding: 20px;
 
   border: 1px solid #e1e4eb;
 
@@ -742,7 +742,7 @@
 .contact-form label > span {
   color: #697080;
 
-  font-size: 7px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -766,7 +766,7 @@
 
   font-family: inherit;
 
-  font-size: 10px;
+  font-size: 12px;
 
   transition:
     border-color .25s ease,
@@ -828,7 +828,7 @@
 
   color: #858b98;
 
-  font-size: 8px;
+  font-size: 12px;
 
   line-height: 1.7;
 }
@@ -855,7 +855,7 @@
 
   font-family: inherit;
 
-  font-size: 9px;
+  font-size: 12px;
 
   font-weight: 800;
 
@@ -884,7 +884,7 @@
 ================================================== */
 
 .contact-ivy-section {
-  padding: 80px 0;
+  padding: 20px 0;
 
   background: #2438e8;
 }
@@ -923,7 +923,7 @@
   color:
     rgba(255,255,255,.53);
 
-  font-size: 7px;
+  font-size: 11px;
 
   font-weight: 800;
 
@@ -955,7 +955,7 @@
   color:
     rgba(255,255,255,.55);
 
-  font-size: 9px;
+  font-size: 12px;
 
   line-height: 1.7;
 }
@@ -978,7 +978,7 @@
 
   color: #111936;
 
-  font-size: 9px;
+  font-size: 12px;
 
   font-weight: 800;
 
@@ -1062,13 +1062,13 @@
   }
 
   .contact-hero {
-    padding-top: 110px;
+    padding-top: 40px;
   }
 
   .contact-hero-grid {
     gap: 35px;
 
-    padding-bottom: 65px;
+    padding-bottom: 25px;
   }
 
   .contact-hero h1 {
@@ -1105,7 +1105,7 @@
   }
 
   .contact-details {
-    padding: 90px 0;
+    padding: 20px 0;
   }
 
   .contact-details-grid {
@@ -1117,7 +1117,7 @@
   }
 
   .contact-hours-section {
-    padding: 90px 0;
+    padding: 20px 0;
   }
 
   .contact-hour {
@@ -1129,7 +1129,7 @@
   }
 
   .contact-message-section {
-    padding: 90px 0;
+    padding: 20px 0;
   }
 
   .contact-form {
@@ -1155,7 +1155,7 @@
   }
 
   .contact-ivy-section {
-    padding: 60px 0;
+    padding: 20px 0;
   }
 
   .contact-ivy-card {

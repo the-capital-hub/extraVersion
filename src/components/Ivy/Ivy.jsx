@@ -91,10 +91,7 @@ const Ivy = () => {
 
         <div className="ivy-content">
 
-          <div className="ivy-label">
-            <span />
-            MEET IVY
-          </div>
+          
 
           <h2 className="ivy-title">
             Your dental
