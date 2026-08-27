@@ -45,7 +45,7 @@ const Hero = () => {
             At Oak & Ivory Dental, we combine modern
             dental technology with a warm, personal
             approach to make every visit more
-            comfortable, convenient and confidence-
+            comfortable, convenient and confidence 
             inspiring.
           </p>
 

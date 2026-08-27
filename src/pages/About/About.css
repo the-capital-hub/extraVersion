@@ -550,7 +550,7 @@
 .about-cta {
   padding: 28px 0;
 
-  background: #2438e8;
+  background:#eef0ff;
 }
 
 .about-cta-inner {
@@ -577,7 +577,7 @@
 .about-cta h2 {
   margin-top: 10px;
 
-  color: #ffffff;
+  color:#2438e8;
 
   font-family:
     var(--font-heading),
@@ -593,7 +593,7 @@
 }
 
 .about-cta h2 em {
-  color: #b9c1ff;
+  color:#737a8c;
 
   font-style: italic;
 }
@@ -614,7 +614,7 @@
 
   background: #ffffff;
 
-  color: #111936;
+  color:#737a8c;
 
   font-size: 9px;
 

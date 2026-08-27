@@ -161,25 +161,15 @@ const Footer = () => {
               EXPLORE
             </span>
 
-            <a href="#home">
-              Home
-            </a>
+            <Link to="/">Home</Link>
 
-            <a href="#about">
-              About
-            </a>
+<Link to="/about">About</Link>
 
-            <a href="#services">
-              Services
-            </a>
+<Link to="/services">Services</Link>
 
-            <a href="#team">
-              Our Team
-            </a>
+<Link to="/team">Our Team</Link>
 
-            <a href="#testimonials">
-              Patient Stories
-            </a>
+
 
           </div>
 
@@ -194,25 +184,13 @@ const Footer = () => {
               PATIENTS
             </span>
 
-            <a href="#journey">
-              Patient Experience
-            </a>
+            <Link to="/experience">Patient Experience</Link>
 
-            <a href="#ivy">
-              Ask Ivy
-            </a>
+<Link to="/ivy">Ask Ivy</Link>
 
-            <a href="#faq">
-              FAQs
-            </a>
+<Link to="/booking">Book an Appointment</Link>
 
-            <a href="#booking">
-              Book an Appointment
-            </a>
-
-            <a href="#contact">
-              Contact Us
-            </a>
+<Link to="/contact">Contact Us</Link>
 
           </div>
 

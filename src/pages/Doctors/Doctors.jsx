@@ -129,7 +129,7 @@ const Doctors = () => {
                 At Oak & Ivory, our dentists bring
                 different areas of expertise together
                 around one shared goal: exceptional,
-                patient-first care.
+                patient first care.
               </p>
 
             </div>
